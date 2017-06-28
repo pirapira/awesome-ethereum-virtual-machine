@@ -52,7 +52,7 @@ Here is [how to contribute](./contributing.md).
 * [hsevm](https://github.com/dapphub/hsevm)
     - An EVM implementation writtten in Haskell with debugging in mind
 
-## Programming Languages that compile into EVM
+## Programming Languages that Compile into EVM
 
 * [Solidity](https://github.com/ethereum/solidity)
     - The most popular programming language for Ethereum contracts
@@ -91,7 +91,7 @@ Here is [how to contribute](./contributing.md).
 ## Tutorials
 
 
-## License of this List
+## License of This List
 
 Ethereum Virtual Machine Awesome List
 
