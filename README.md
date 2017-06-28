@@ -38,7 +38,7 @@ Not listed there yet, but in the spirit of [![Awesome](https://cdn.rawgit.com/si
 * [Parity](https://github.com/paritytech/parity) in Rust
     - Another popular Ethereum client with its own EVM implementation
 * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
-    - An Ethereum client used to generate the consensus test suite
+    - An Ethereum client that generates the consensus test suite
 * [Pyethereum](https://github.com/ethereum/pyethereum) in Python
     - Another client with probably the best readable EVM implementation
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
