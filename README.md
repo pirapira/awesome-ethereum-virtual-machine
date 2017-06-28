@@ -48,7 +48,7 @@ Here is [how to contribute](./contributing.md).
 * [eth-isabelle](https://github.com/pirapira/eth-isabelle)
     - An EVM implementation for theorem provers
 * [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics)
-    - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page).
+    - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
 * [hsevm](https://github.com/dapphub/hsevm)
     - An EVM implementation writtten in Haskell with debugging in mind
 
