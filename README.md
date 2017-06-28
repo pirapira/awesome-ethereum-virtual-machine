@@ -65,7 +65,7 @@ Here is [how to contribute](./contributing.md).
 ## Debuggers
 
 * [REMIX](https://github.com/ethereum/remix)
-    - An IDE containing EVM code debugger
+    - An IDE containing an EVM code debugger
 * [debug_traceTransaction method](https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_tracetransaction)
     - An instruction-wise trace information provided by go-ethereum
 
