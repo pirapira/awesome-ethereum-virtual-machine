@@ -1,4 +1,4 @@
-# Ethereum Virtual Machine Awesome List
+# Awesome Ethereum Virtual Machine
 
 A curated list of resources on the Ethereum Virtual Machine (EVM), which is the virtual machine executed on the [Ethereum](https://ethereum.org/) network.
 
@@ -13,12 +13,13 @@ Here is [how to contribute](./contributing.md).
 - [Specification](#specification)
 - [Tests](#tests)
 - [EVM Implementations](#evm-implementations)
-- [Programming Languages that compile into EVM](#programming-languages-that-compile-into-evm)
+- [Programming Languages that Compile into EVM](#programming-languages-that-compile-into-evm)
 - [Debuggers](#debuggers)
 - [Code Analyzers](#code-analyzers)
 - [Improvement Proposals](#improvement-proposals)
 - [Tutorials](#tutorials)
-- [License of this List](#license-of-this-list)
+- [Related Resources](#related-resources)
+- [License of This List](#license-of-this-list)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
