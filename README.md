@@ -98,7 +98,7 @@ Here is [how to contribute](./contributing.md).
 
 ## License of This List
 
-Ethereum Virtual Machine Awesome List
+Awesome Ethereum Virtual Machine
 
 Written in 2017 by Yoichi Hirai <i@yoichihirai.com>
 
