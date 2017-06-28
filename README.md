@@ -44,6 +44,8 @@ Here is [how to contribute](./contributing.md).
     - An Ethereum client that generates the consensus test suite
 * [Pyethereum](https://github.com/ethereum/pyethereum) in Python
     - Another client with probably the best readable EVM implementation
+* [Py-EVM](https://github.com/pipermerriam/py-evm) in Python
+    - An alternate Python implementation designed to be highly configurable and modular.
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
 * [eth-isabelle](https://github.com/pirapira/eth-isabelle)
