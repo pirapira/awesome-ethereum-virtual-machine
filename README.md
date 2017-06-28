@@ -93,7 +93,7 @@ Here is [how to contribute](./contributing.md).
 
 ## Related Resources
 
-* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
+* [Awesome Ethereum](http://awesome-ethereum.com/)
 
 ## License of This List
 
