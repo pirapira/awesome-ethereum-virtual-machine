@@ -56,7 +56,8 @@ Here is [how to contribute](./contributing.md).
 
 * [Solidity](https://github.com/ethereum/solidity)
     - The most popular programming language for Ethereum contracts
-    - The LLL compiler is also in the same repository
+    - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
+    - The LLL compiler is also in the same repository.
 * [Viper](https://github.com/ethereum/viper)
     - A language with overflow-checking, numeric units but without unlimited loops
 * [Serpent](https://github.com/ethereum/serpent)
@@ -90,6 +91,9 @@ Here is [how to contribute](./contributing.md).
 
 ## Tutorials
 
+## Related Resources
+
+* [Awesome Ethereum](https://github.com/btomashvili/awesome-ethereum)
 
 ## License of This List
 
