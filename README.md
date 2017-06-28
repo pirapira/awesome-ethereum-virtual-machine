@@ -26,7 +26,7 @@ Here is [how to contribute](./contributing.md).
 ## Specification
 
 * [Yellow Paper](https://github.com/ethereum/yellowpaper)
-    - A terse specification of EVM
+    - A terse specification of EVM and Ethereum blocks
 
 ## Tests
 
@@ -86,7 +86,7 @@ Here is [how to contribute](./contributing.md).
 * [EVM 1.5](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-615.md)
     - A proposal to tame jumps so that a linear-time scan can determine stack layouts
 * [eWASM](https://github.com/ewasm)
-    - A proposal to use a [WebAssembly](http://webassembly.org/) for Ethereum contract execution.
+    - A proposal to use a [WebAssembly](http://webassembly.org/) for Ethereum contract execution
 
 ## Tutorials
 
