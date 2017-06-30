@@ -51,7 +51,7 @@ Here is [how to contribute](./contributing.md).
 * [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics)
     - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
 * [hsevm](https://github.com/dapphub/hsevm)
-    - An EVM implementation writtten in Haskell with debugging in mind
+    - An EVM implementation written in Haskell with debugging in mind
 
 ## Programming Languages that Compile into EVM
 
