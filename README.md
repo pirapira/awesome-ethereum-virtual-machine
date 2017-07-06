@@ -29,6 +29,11 @@ Here is [how to contribute](./contributing.md).
 * [Yellow Paper](https://github.com/ethereum/yellowpaper)
     - A terse specification of EVM and Ethereum blocks
 
+## Illustration
+
+* [A detailed illustration of the Ethereum Virtual Machine](https://ethereum.stackexchange.com/a/6413/280)
+    - The illustration shows the contents of blocks and block headers faithfully.
+
 ## Tests
 
 * [Consensus test suite](https://github.com/ethereum/tests)
