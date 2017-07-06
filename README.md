@@ -11,6 +11,7 @@ Here is [how to contribute](./contributing.md).
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Specification](#specification)
+- [Illustration](#illustration)
 - [Tests](#tests)
 - [EVM Implementations](#evm-implementations)
 - [Programming Languages that Compile into EVM](#programming-languages-that-compile-into-evm)
