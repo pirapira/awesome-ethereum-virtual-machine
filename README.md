@@ -83,10 +83,14 @@ Here is [how to contribute](./contributing.md).
 
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
+* [Securify](http://securify.ch/)
+    - A tool that strives to ahieve no false-negatives
 * [Oyente](https://github.com/melonproject/oyente)
     - An automatic EVM code analyzer based on symbolic execution and [Z3](https://github.com/Z3Prover/z3) SMT solver
+    - The source is [publicly available](https://github.com/melonproject/oyente)
 * [Dr. Y's Ethereum Contract Analyzer](http://dry.yoichihirai.com/)
     - A symbolic executor for EVM code
+    - The source is [publicly available](https://github.com/pirapira/dry-analyzer)
 
 ## Improvement Proposals
 
