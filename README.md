@@ -82,7 +82,7 @@ Here is [how to contribute](./contributing.md).
 ## Code Analyzers
 
 * [porosity](https://github.com/comaeio/porosity)
-    - A reverse enginering tool with disassembler, ABI function detector and decompiler that also highlights vulnerabilities
+    - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
 * [Securify](http://securify.ch/)
