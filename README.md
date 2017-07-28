@@ -97,7 +97,7 @@ Here is [how to contribute](./contributing.md).
 
 * [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs)
     - A portal for EVM & Ethereum improvements
-    - The most immediate changes are listed in the README
+    - The soonest changes are listed in the README
 * [EVM 1.5](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-615.md)
     - A proposal to tame jumps so that a linear-time scan can determine stack layouts
 * [eWASM](https://github.com/ewasm)
