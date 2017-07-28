@@ -76,11 +76,13 @@ Here is [how to contribute](./contributing.md).
 
 * [REMIX](https://github.com/ethereum/remix)
     - An IDE containing an EVM code debugger
-* [debug_traceTransaction method](https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_tracetransaction)
+* [debug\_traceTransaction method](https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_tracetransaction)
     - An instruction-wise trace information provided by go-ethereum
 
 ## Code Analyzers
 
+* [porosity](https://github.com/comaeio/porosity)
+    - A reverse enginering tool with disassembler, ABI function detector and decompiler that also highlights vulnerabilities
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
 * [Securify](http://securify.ch/)
