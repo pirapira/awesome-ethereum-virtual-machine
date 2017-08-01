@@ -56,7 +56,7 @@ Here is [how to contribute](./contributing.md).
     - A client with its own EVM implementation
 * [eth-isabelle](https://github.com/pirapira/eth-isabelle)
     - An EVM implementation for theorem provers
-* [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics)
+* [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics) ([whitepaper](https://www.ideals.illinois.edu/handle/2142/97207))
     - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
 * [hsevm](https://github.com/dapphub/hsevm)
     - An EVM implementation written in Haskell with debugging in mind
