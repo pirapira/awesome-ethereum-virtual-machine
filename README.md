@@ -69,6 +69,8 @@ Here is [how to contribute](./contributing.md).
     - The LLL compiler is also in the same repository
 * [Viper](https://github.com/ethereum/viper)
     - A language with overflow-checking, numeric units but without unlimited loops
+* [Bamboo](https://github.com/pirapira/bamboo)
+    - A language without loops but with explict constructor invocation at the end of every call
 
 ## Debuggers
 
