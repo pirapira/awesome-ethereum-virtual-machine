@@ -69,8 +69,6 @@ Here is [how to contribute](./contributing.md).
     - The LLL compiler is also in the same repository
 * [Viper](https://github.com/ethereum/viper)
     - A language with overflow-checking, numeric units but without unlimited loops
-* [Serpent](https://github.com/ethereum/serpent)
-    - A language that looks like Python
 
 ## Debuggers
 
