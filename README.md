@@ -60,6 +60,8 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
 * [hsevm](https://github.com/dapphub/hsevm)
     - An EVM implementation written in Haskell with debugging in mind
+* [Burrow](https://github.com/hyperledger/burrow)
+    - An EVM implementation in Go extended with a native name registry and permissioning layer
 
 ## Programming Languages that Compile into EVM
 
