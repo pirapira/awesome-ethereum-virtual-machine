@@ -105,6 +105,9 @@ Here is [how to contribute](./contributing.md).
 
 ## Tutorials
 
+* [CoinCulture's Guide to the EVM](https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md)
+    - A hands on guide to understanding how the EVM works, with examples written in raw byte-code and solidity
+
 ## Related Resources
 
 * [Awesome Ethereum](http://awesome-ethereum.com/)
