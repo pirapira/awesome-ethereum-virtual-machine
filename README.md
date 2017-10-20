@@ -82,6 +82,8 @@ Here is [how to contribute](./contributing.md).
     - An IDE containing an EVM code debugger
 * [debug\_traceTransaction method](https://github.com/ethereum/go-ethereum/wiki/Management-APIs#debug_tracetransaction)
     - An instruction-wise trace information provided by go-ethereum
+* [Ethereum Function Signature Database](https://www.4byte.directory/)
+    - A database for deciphering `0x165ffd10` into `restart(bytes32,bytes32)`.
 
 ## Code Analyzers
 
