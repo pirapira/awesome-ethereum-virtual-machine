@@ -89,6 +89,7 @@ Here is [how to contribute](./contributing.md).
 
 * [Mythril](https://github.com/b-mueller/mythril)
     - A blockchain exploration tool that indexes all contracts on the network, containing a disassembler, an ABI function detector and a control flow analyzer.
+    - Comes with a [--fire-laser option](https://hackernoon.com/crafting-ethereum-exploits-by-laser-fire-1c9acf25af4f)
 * [porosity](https://github.com/comaeio/porosity)
     - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
 * [evmdis](https://github.com/arachnid/evmdis)
