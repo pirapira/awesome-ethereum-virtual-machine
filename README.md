@@ -12,13 +12,13 @@ Here is [how to contribute](./contributing.md).
 
 - [Specification](#specification)
 - [Illustration](#illustration)
+- [Tutorials](#tutorials)
 - [Tests](#tests)
 - [EVM Implementations](#evm-implementations)
 - [Programming Languages that Compile into EVM](#programming-languages-that-compile-into-evm)
 - [Debuggers](#debuggers)
 - [Code Analyzers](#code-analyzers)
 - [Improvement Proposals](#improvement-proposals)
-- [Tutorials](#tutorials)
 - [Related Resources](#related-resources)
 - [License of This List](#license-of-this-list)
 
@@ -34,6 +34,13 @@ Here is [how to contribute](./contributing.md).
 
 * [A detailed illustration of the Ethereum Virtual Machine](https://ethereum.stackexchange.com/a/6413/280)
     - The illustration shows the contents of blocks and block headers faithfully
+
+## Tutorials
+
+* [CoinCulture's Guide to the EVM](https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md)
+    - A hands on guide to understanding how the EVM works, with examples written in raw byte-code and solidity
+* [Diving Into The Ethereum Virtual Machine](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
+    - An article series examining different aspects of the EVM by walking you through Solidity's assembly output
 
 ## Tests
 
@@ -111,13 +118,6 @@ Here is [how to contribute](./contributing.md).
     - A proposal to tame jumps so that a linear-time scan can determine stack layouts
 * [eWASM](https://github.com/ewasm)
     - A proposal to use a [WebAssembly](http://webassembly.org/) for Ethereum contract execution
-
-## Tutorials
-
-* [CoinCulture's Guide to the EVM](https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md)
-    - A hands on guide to understanding how the EVM works, with examples written in raw byte-code and solidity
-* [Diving Into The Ethereum Virtual Machine](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
-    - An article series examining different aspects of the EVM by walking you through Solidity's assembly output
 
 ## Related Resources
 
