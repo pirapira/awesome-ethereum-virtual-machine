@@ -109,6 +109,8 @@ Here is [how to contribute](./contributing.md).
     - An automatic EVM code analyzer based on symbolic execution and [Z3](https://github.com/Z3Prover/z3) SMT solver
 * [Dr. Y's Ethereum Contract Analyzer](http://dry.yoichihirai.com/)
     - A symbolic executor for EVM code
+* [Solium](https://github.com/duaraghav8/Solium)
+    - A Linter to identify and fix style & security issues in Solidity
 
 ## Improvement Proposals
 
