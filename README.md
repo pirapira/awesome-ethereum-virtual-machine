@@ -69,7 +69,9 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation written in Haskell with debugging in mind
 * [Burrow](https://github.com/hyperledger/burrow)
     - An EVM implementation in Go extended with a native name registry and permissioning layer
-
+* [Ethereumjs-VM](https://github.com/ethereumjs/ethereumjs-vm)
+    - Implements Ethereum's VM in JS
+    
 ## Programming Languages that Compile into EVM
 
 * [Solidity](https://github.com/ethereum/solidity)
