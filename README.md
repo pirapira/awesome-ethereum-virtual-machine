@@ -82,8 +82,6 @@ Here is [how to contribute](./contributing.md).
     - A language with overflow-checking, numeric units but without unlimited loops
 * [Bamboo](https://github.com/pirapira/bamboo)
     - A language without loops but with explict constructor invocation at the end of every call
-* [EthSharp](https://github.com/EthSharp/ethsharp-compiler)
-    - A C# compiler for Ethereum smart contracts
 
 ## Debuggers
 
