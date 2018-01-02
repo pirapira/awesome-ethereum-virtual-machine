@@ -102,6 +102,8 @@ Here is [how to contribute](./contributing.md).
     - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
+* [ethersplay](https://github.com/trailofbits/ethersplay)
+    - An EVM plugin for [Binary Ninja](https://binary.ninja/)
 * [Securify](http://securify.ch/)
     - A tool that strives to achieve no false-negatives
     - The implementation seems not public as of now
