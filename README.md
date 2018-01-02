@@ -100,6 +100,8 @@ Here is [how to contribute](./contributing.md).
     - Powered by [laser-ethereum](https://github.com/b-mueller/laser-ethereum)
 * [porosity](https://github.com/comaeio/porosity)
     - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
+* [Manticore](https://github.com/trailofbits/manticore)
+    - A symtolic execution engine that can generate inputs to cover codepaths.
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
 * [ethersplay](https://github.com/trailofbits/ethersplay)
