@@ -95,13 +95,13 @@ Here is [how to contribute](./contributing.md).
 ## Code Analyzers
 
 * [Mythril](https://github.com/b-mueller/mythril)
-    - A blockchain exploration tool that indexes all contracts on the network, containing a disassembler, an ABI function detector and a control flow analyzer.
+    - A blockchain exploration tool that indexes all contracts on the network, containing a disassembler, an ABI function detector and a control flow analyzer
     - Comes with a [--fire-laser option](https://hackernoon.com/crafting-ethereum-exploits-by-laser-fire-1c9acf25af4f)
     - Powered by [laser-ethereum](https://github.com/b-mueller/laser-ethereum)
 * [porosity](https://github.com/comaeio/porosity)
     - A reverse enginering tool, a disassembler, an ABI function detector and a decompiler that also highlights vulnerabilities
 * [Manticore](https://github.com/trailofbits/manticore)
-    - A symtolic execution engine that can generate inputs to cover codepaths.
+    - A symtolic execution engine that can generate inputs to cover codepaths ([asciicast](https://asciinema.org/a/154012)), which also comes with a Python API
 * [evmdis](https://github.com/arachnid/evmdis)
     - A disassembler for EVM code
 * [ethersplay](https://github.com/trailofbits/ethersplay)
