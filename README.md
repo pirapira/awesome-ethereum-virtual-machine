@@ -71,6 +71,8 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation in Go extended with a native name registry and permissioning layer
 * [Ethereumjs-VM](https://github.com/ethereumjs/ethereumjs-vm)
     - Implements Ethereum's VM in JS
+* [sputter](https://github.com/nervous-systems/sputter)
+    - An EVM implementation in Clojure (so far passes VM tests)
     
 ## Programming Languages that Compile into EVM
 
