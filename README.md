@@ -80,7 +80,7 @@ Here is [how to contribute](./contributing.md).
     - The most popular programming language for Ethereum contracts
     - [Awesome Solidity](https://github.com/bkrem/awesome-solidity)
     - The LLL compiler is also in the same repository
-* [Viper](https://github.com/ethereum/viper)
+* [Vyper](https://github.com/ethereum/vyper)
     - A language with overflow-checking, numeric units but without unlimited loops
 * [Bamboo](https://github.com/pirapira/bamboo)
     - A language without loops but with explict constructor invocation at the end of every call
