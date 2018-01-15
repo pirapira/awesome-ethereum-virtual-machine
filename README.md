@@ -73,7 +73,7 @@ Here is [how to contribute](./contributing.md).
     - Implements Ethereum's VM in JS
 * [sputter](https://github.com/nervous-systems/sputter)
     - An EVM implementation in Clojure (so far passes VM tests)
-    
+
 ## Programming Languages that Compile into EVM
 
 * [Solidity](https://github.com/ethereum/solidity)
@@ -82,7 +82,9 @@ Here is [how to contribute](./contributing.md).
     - The LLL compiler is also in the same repository
 * [Vyper](https://github.com/ethereum/vyper)
     - A language with overflow-checking, numeric units but without unlimited loops
-* [Bamboo](https://github.com/pirapira/bamboo)
+* [Pyramid Scheme](https://github.com/MichaelBurge/pyramid-scheme) (experimental)
+    - A Scheme compiler into EVM that follows the [SICP compilation approach](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-35.html#%_sec_5.5)
+* [Bamboo](https://github.com/pirapira/bamboo) (experimental)
     - A language without loops but with explict constructor invocation at the end of every call
 
 ## Debuggers
