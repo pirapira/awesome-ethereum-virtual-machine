@@ -53,6 +53,12 @@ Here is [how to contribute](./contributing.md).
     - A popular Ethereum client with its own EVM implementation ([core/vm](https://github.com/ethereum/go-ethereum/tree/master/core/vm) directory)
 * [Parity](https://github.com/paritytech/parity) in Rust
     - Another popular Ethereum client with its own EVM implementation ([ethcore](https://github.com/paritytech/parity/tree/master/ethcore) directory)
+* [SputnikVM](https://github.com/ethereumproject/sputnikvm) in Rust
+    - A standalone EVM featuring [a developer
+      environment](https://github.com/ethereumproject/sputnikvm-dev),
+      a [browser through wasm32-unknown-emscripten
+      target](https://github.com/sorpaas/sputnikvm-in-browser), and for
+      [embedded devices](https://github.com/sorpaas/sputnikvm-on-rux)
 * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
     - An Ethereum client that generates the consensus test suite ([libevm/VM.cpp](https://github.com/ethereum/cpp-ethereum/blob/develop/libevm/VM.cpp))
 * [Pyethereum](https://github.com/ethereum/pyethereum) in Python
