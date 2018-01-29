@@ -49,16 +49,12 @@ Here is [how to contribute](./contributing.md).
 
 ## EVM Implementations
 
+### Live on Main Network
+
 * [go-ethereum](https://github.com/ethereum/go-ethereum)
     - A popular Ethereum client with its own EVM implementation ([core/vm](https://github.com/ethereum/go-ethereum/tree/master/core/vm) directory)
 * [Parity](https://github.com/paritytech/parity) in Rust
     - Another popular Ethereum client with its own EVM implementation ([ethcore](https://github.com/paritytech/parity/tree/master/ethcore) directory)
-* [SputnikVM](https://github.com/ethereumproject/sputnikvm) in Rust
-    - A standalone EVM featuring [a developer
-      environment](https://github.com/ethereumproject/sputnikvm-dev),
-      a [browser through wasm32-unknown-emscripten
-      target](https://github.com/sorpaas/sputnikvm-in-browser), and for
-      [embedded devices](https://github.com/sorpaas/sputnikvm-on-rux)
 * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
     - An Ethereum client that generates the consensus test suite ([libevm/VM.cpp](https://github.com/ethereum/cpp-ethereum/blob/develop/libevm/VM.cpp))
 * [Pyethereum](https://github.com/ethereum/pyethereum) in Python
@@ -67,12 +63,21 @@ Here is [how to contribute](./contributing.md).
     - An alternate Python implementation designed to be highly configurable and modular.
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
-* [eth-isabelle](https://github.com/pirapira/eth-isabelle)
-    - An EVM implementation for theorem provers
+
+### Other Implementations
+
+* [SputnikVM](https://github.com/ethereumproject/sputnikvm) in Rust for Ethereum Classic
+    - A standalone EVM featuring [a developer
+      environment](https://github.com/ethereumproject/sputnikvm-dev),
+      a [browser through wasm32-unknown-emscripten
+      target](https://github.com/sorpaas/sputnikvm-in-browser), and for
+      [embedded devices](https://github.com/sorpaas/sputnikvm-on-rux)
 * [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics) ([whitepaper](https://www.ideals.illinois.edu/handle/2142/97207))
     - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
 * [hevm](https://github.com/dapphub/hevm)
     - An EVM implementation written in Haskell with debugging in mind
+* [eth-isabelle](https://github.com/pirapira/eth-isabelle)
+    - An EVM implementation for theorem provers
 * [Burrow](https://github.com/hyperledger/burrow)
     - An EVM implementation in Go extended with a native name registry and permissioning layer
 * [Ethereumjs-VM](https://github.com/ethereumjs/ethereumjs-vm)
