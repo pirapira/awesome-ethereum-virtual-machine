@@ -96,7 +96,7 @@ Here is [how to contribute](./contributing.md).
 * [Pyramid Scheme](https://github.com/MichaelBurge/pyramid-scheme) (experimental)
     - A Scheme compiler into EVM that follows the [SICP compilation approach](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-35.html#%_sec_5.5)
 * [Bamboo](https://github.com/pirapira/bamboo) (experimental)
-    - A language without loops but with explict constructor invocation at the end of every call
+    - A language without loops but with explicit constructor invocation at the end of every call
 
 ## Debuggers
 
