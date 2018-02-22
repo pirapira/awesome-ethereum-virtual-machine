@@ -109,6 +109,8 @@ Here is [how to contribute](./contributing.md).
 
 ## Code Analyzers
 
+* [MAIAN](https://arxiv.org/abs/1802.06038)
+    - An automatic tool that detects trace vulnerabilities (Greedy, Prodigal and Suicidal) with depth-first search of symbolic execution of multiple invocations
 * [Mythril](https://github.com/b-mueller/mythril)
     - A blockchain exploration tool that indexes all contracts on the network, containing a disassembler, an ABI function detector and a control flow analyzer
     - Comes with a [--fire-laser option](https://hackernoon.com/crafting-ethereum-exploits-by-laser-fire-1c9acf25af4f)
