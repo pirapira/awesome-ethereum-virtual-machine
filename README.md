@@ -95,6 +95,8 @@ Here is [how to contribute](./contributing.md).
     - A language with overflow-checking, numeric units but without unlimited loops
 * [Pyramid Scheme](https://github.com/MichaelBurge/pyramid-scheme) (experimental)
     - A Scheme compiler into EVM that follows the [SICP compilation approach](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-35.html#%_sec_5.5)
+* [LLLL](https://github.com/mmalvarez/eth-isabelle/blob/master/example/LLLL.thy)
+    - An LLL-like compiler being implemented in Isabelle/HOL
 * [Bamboo](https://github.com/pirapira/bamboo) (experimental)
     - A language without loops but with explicit constructor invocation at the end of every call
 
