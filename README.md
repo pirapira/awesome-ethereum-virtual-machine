@@ -110,7 +110,8 @@ Here is [how to contribute](./contributing.md).
     - A database for deciphering `0x165ffd10` into `restart(bytes32,bytes32)`.
 
 ## Code Analyzers
-
+* [ZEUS](https://www.ndss-symposium.org/wp-content/uploads/sites/25/2018/02/ndss2018_09-1_Kalra_paper.pdf)
+    - A framework to verify the correctness and validate the fairness of smart contracts
 * [MAIAN](https://arxiv.org/abs/1802.06038)
     - An automatic tool that detects trace vulnerabilities (Greedy, Prodigal and Suicidal) with depth-first search of symbolic execution of multiple invocations
 * [Mythril](https://github.com/b-mueller/mythril)
