@@ -74,6 +74,8 @@ Here is [how to contribute](./contributing.md).
       [embedded devices](https://github.com/sorpaas/sputnikvm-on-rux)
 * [Modeling EVM in the K framework](https://github.com/kframework/evm-semantics) ([whitepaper](https://www.ideals.illinois.edu/handle/2142/97207))
     - An EVM implementation for [K framework](http://www.kframework.org/index.php/Main_Page)
+* [sputter](https://github.com/nervous-systems/sputter)
+    - An EVM implementation in Clojure that passes some VM tests
 * [hevm](https://github.com/dapphub/hevm)
     - An EVM implementation written in Haskell with debugging in mind
 * [eth-isabelle](https://github.com/pirapira/eth-isabelle)
