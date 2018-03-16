@@ -123,6 +123,9 @@ Here is [how to contribute](./contributing.md).
 
 ## Code Analyzers
 
+* [Echidna](https://github.com/trailofbits/echidna)
+    - A fuzzer on EVM that also takes Solidity input
+    - Able to fuzz a program with sequences of multiple transactions
 * [MAIAN](https://arxiv.org/abs/1802.06038)
     - An automatic tool that detects trace vulnerabilities (Greedy, Prodigal and Suicidal) with depth-first search of symbolic execution of multiple invocations
 * [Mythril](https://github.com/b-mueller/mythril)
