@@ -99,6 +99,8 @@ Here is [how to contribute](./contributing.md).
     - A Scheme compiler into EVM that follows the [SICP compilation approach](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-35.html#%_sec_5.5)
 * [LLLL](https://github.com/mmalvarez/eth-isabelle/blob/master/example/LLLL.thy)
     - An LLL-like compiler being implemented in Isabelle/HOL
+* [HAseembly-evm](https://github.com/takenobu-hs/haskell-ethereum-assembly)
+    - An EVM assembly implemented as a Haskell DSL
 * [Bamboo](https://github.com/pirapira/bamboo) (experimental)
     - A language without loops but with explicit constructor invocation at the end of every call
 
