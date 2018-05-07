@@ -99,6 +99,7 @@ Here is [how to contribute](./contributing.md).
     - A language with overflow-checking, numeric units but without unlimited loops
 * [Pyramid Scheme](https://github.com/MichaelBurge/pyramid-scheme) (experimental)
     - A Scheme compiler into EVM that follows the [SICP compilation approach](https://mitpress.mit.edu/sicp/full-text/book/book-Z-H-35.html#%_sec_5.5)
+    - [ceagle](https://github.com/MichaelBurge/ceagle) compiles C into Pyramid Scheme
 * [Flint](https://github.com/franklinsch/flint)
     - A language with several security features: e.g. asset types with a restricted set of atomic operations
 * [LLLL](https://github.com/mmalvarez/eth-isabelle/blob/master/example/LLLL.thy)
