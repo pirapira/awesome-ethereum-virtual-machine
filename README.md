@@ -88,6 +88,8 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation in Clojure (so far passes VM tests)
 * [eth-acl2](https://github.com/zchn/eth-acl2)
     - An EVM implementation in ACL2 (work in progress)
+* [mana](https://github.com/poanetwork/mana/)
+    - An EVM implementation in Elixir (work in progress)
 
 ## Programming Languages that Compile into EVM
 
