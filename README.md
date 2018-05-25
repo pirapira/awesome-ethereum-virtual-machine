@@ -1,6 +1,6 @@
 # Awesome Ethereum Virtual Machine
 
-A curated list of resources on the Ethereum Virtual Machine (EVM), which is the virtual machine executed on the [Ethereum](https://ethereum.org/) network.
+A curated list of resources on the Ethereum Virtual Machine (EVM), which is the virtual machine executed on the [Ethereum](https://ethereum.org/) network. Note that this list is also maintained [here](https://github.com/ethereum/wiki/wiki/Ethereum-Virtual-Machine-(EVM)-Awesome-List).
 
 Not listed there yet, but in the spirit of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -60,9 +60,10 @@ Here is [how to contribute](./contributing.md).
 * [Pyethereum](https://github.com/ethereum/pyethereum) in Python
     - Another client with probably the best readable EVM implementation ([ethereum/vm.py](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py))
 * [Py-EVM](https://github.com/pipermerriam/py-evm) in Python
-    - An alternate Python implementation designed to be highly configurable and modular.
+    - An alternate Python implementation designed to be highly configurable and modular and compliant with the Ethereum test suite (while Pyethereum isn't).
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
+* For more, see [here](https://github.com/ethereum/wiki/wiki/Clients).
 
 ### Other Implementations
 
