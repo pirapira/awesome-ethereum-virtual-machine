@@ -154,8 +154,8 @@ Here is [how to contribute](./contributing.md).
     - A disassembler for EVM code
 * [ethersplay](https://github.com/trailofbits/ethersplay)
     - An EVM plugin for [Binary Ninja](https://binary.ninja/)
-* [Securify](http://securify.ch/)
-    - A tool that strives to achieve no false-negatives
+* [Securify](http://securify.ch/)([paper](https://arxiv.org/abs/1806.01143))
+    - A tool that detects some patterns of dangerous executions, reports absense of those, or gives a warning.
     - The implementation seems not public as of now
 * [Oyente](https://github.com/melonproject/oyente)
     - An automatic EVM code analyzer based on symbolic execution and [Z3](https://github.com/Z3Prover/z3) SMT solver
