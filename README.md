@@ -93,6 +93,8 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation in ACL2 (work in progress)
 * [mana](https://github.com/poanetwork/mana/)
     - An EVM implementation in Elixir (work in progress)
+* [ciri](https://github.com/ciri-ethereum/ciri)
+    - An EVM implementation in Ruby (work in progress, see [ethereum tests passes progress](https://github.com/ciri-ethereum/ciri/milestone/2))
 
 ## Programming Languages that Compile into EVM
 
