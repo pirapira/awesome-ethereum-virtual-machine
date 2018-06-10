@@ -134,6 +134,8 @@ Here is [how to contribute](./contributing.md).
     - An instruction-wise trace information provided by go-ethereum
 * [Ethereum Function Signature Database](https://www.4byte.directory/)
     - A database for deciphering `0x165ffd10` into `restart(bytes32,bytes32)`.
+* [ethereum-graph-debugger](https://github.com/fergarrui/ethereum-graph-debugger)
+    - A flat graphical debugger
 
 ## Code Analyzers
 
