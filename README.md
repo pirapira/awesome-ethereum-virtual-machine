@@ -63,7 +63,8 @@ Here is [how to contribute](./contributing.md).
     - A Python implementation designed to be highly configurable and modular and compliant with the Ethereum test suite, work is in progress on it to run a full node and develop sharding.
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
-* For more, see [here](https://github.com/ethereum/wiki/wiki/Clients).
+* For more, see
+  [here](https://github.com/ethereum/wiki/wiki/Clients,-tools,-dapp-browsers,-wallets-and-other-projects).
 
 ### Other Implementations
 
