@@ -1,5 +1,9 @@
 # Awesome Ethereum Virtual Machine
 
+[![Documentation chat](https://img.shields.io/badge/gitter-Docs%20chat-4AB495.svg)](https://gitter.im/ethereum/documentation)
+
+> A list about the Ethereum Virtual Machine using the Awesome format.
+
 A curated list of resources on the Ethereum Virtual Machine (EVM), which is the virtual machine executed on the [Ethereum](https://ethereum.org/) network.
 
 Not listed there yet, but in the spirit of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -8,14 +12,17 @@ Here is [how to contribute](./contributing.md).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Contents**
 
 - [Specification](#specification)
 - [Illustration](#illustration)
 - [Tutorials](#tutorials)
 - [Tests](#tests)
 - [EVM Implementations](#evm-implementations)
+  - [Live on Main Network](#live-on-main-network)
+  - [Other Implementations](#other-implementations)
 - [Programming Languages that Compile into EVM](#programming-languages-that-compile-into-evm)
+  - [Programming Languages that Compile zk-SNARK Circuits and Proofs](#programming-languages-that-compile-zk-snark-circuits-and-proofs)
 - [Debuggers](#debuggers)
 - [Code Analyzers](#code-analyzers)
 - [Improvement Proposals](#improvement-proposals)
@@ -41,6 +48,7 @@ Here is [how to contribute](./contributing.md).
     - A hands on guide to understanding how the EVM works, with examples written in raw byte-code and solidity
 * [Diving Into The Ethereum Virtual Machine](https://medium.com/@hayeah/diving-into-the-ethereum-vm-6e8d5d2f3c30)
     - An article series examining different aspects of the EVM by walking you through Solidity's assembly output
+* [Consensus Datastructures](https://github.com/ethereum/wiki/wiki/Consensus-Datastructures)
 
 ## Tests
 
@@ -87,12 +95,10 @@ Here is [how to contribute](./contributing.md).
     - An EVM implementation in Ruby (passed all tests in [ethereum tests](https://github.com/ethereum/tests/tree/55a18b3ded93bf6083f23ea1f4bf7be4ba973016))
 * [sputter](https://github.com/nervous-systems/sputter)
     - An EVM implementation in Clojure (so far passes VM tests)
-* [solevm](https://github.com/Ohalo-Ltd/solevm)
-    - An EVM implementation in Solidity
 * [eth-acl2](https://github.com/zchn/eth-acl2)
     - An EVM implementation in ACL2 (work in progress)
-* [mana](https://github.com/poanetwork/mana/)
-    - An EVM implementation in Elixir (work in progress)
+* [Ciri](https://github.com/ciri-ethereum/ciri)
+    - An EVM implementation in Ruby (so far passed all tests in [ethereum tests](https://github.com/ethereum/tests/tree/073035c6ef89ae878c528e78d3b5ce59d1b71df7), aims to be a full Ethereum implementation)
 
 ## Programming Languages that Compile into EVM
 
@@ -112,7 +118,7 @@ Here is [how to contribute](./contributing.md).
 * [HAseembly-evm](https://github.com/takenobu-hs/haskell-ethereum-assembly)
     - An EVM assembly implemented as a Haskell DSL
 * [Bamboo](https://github.com/pirapira/bamboo) (experimental)
-    - A language without loops but with explicit constructor invocation at the end of every call
+    - A language without loops but with explicit constructor invocation at the end of every call
 
 ### Programming Languages that Compile zk-SNARK Circuits and Proofs
 
@@ -170,7 +176,7 @@ Here is [how to contribute](./contributing.md).
 * [EVM 1.5](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-615.md)
     - A proposal to tame jumps so that a linear-time scan can determine stack layouts
 * [eWASM](https://github.com/ewasm)
-    - A proposal to use a [WebAssembly](http://webassembly.org/) for Ethereum contract execution
+    - An EVM ABI compliant implementation to use [WebAssembly](http://webassembly.org/) for Ethereum contract execution, work is underway on [shasper](https://notes.ethereum.org/SCIg8AH5SA-O4C1G1LYZHQ)
 
 ## Related Resources
 
@@ -180,7 +186,7 @@ Here is [how to contribute](./contributing.md).
 
 Awesome Ethereum Virtual Machine
 
-Written in 2017 by Yoichi Hirai <i@yoichihirai.com>
+Written in 2017 by Yoichi Hirai: <i@yoichihirai.com>
 
 [other author/contributor lines as appropriate]
 
