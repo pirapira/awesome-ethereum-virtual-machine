@@ -161,6 +161,17 @@ Here is [how to contribute](./contributing.md).
     - An automatic EVM code analyzer based on symbolic execution and [Z3](https://github.com/Z3Prover/z3) SMT solver
 * [Dr. Y's Ethereum Contract Analyzer](http://dry.yoichihirai.com/)
     - A symbolic executor for EVM code
+* [evmdasm](https://github.com/tintinweb/ethereum-dasm)
+    - A lightweight ethereum evm bytecode instruction registry, compiler, (dis)assembler and evm bytecode manipulation library
+* [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm)
+    - An ethereum evm bytecode disassembler and static/dynamic analysis tool
+* [evmlab](https://github.com/ethereum/evmlab)
+    - Utilities for interacting with the Ethereum virtual machine
+    - Features an ollydbg like transaction tracer 'opviewer'
+* [ethereum-input-decoder](https://github.com/tintinweb/ethereum-input-decoder)
+    - Decode transaction inputs and constructor arguments based on the ethereum contract ABI. Tries to lookup function signature hashes from 4bytes.directory.
+    - part of [pyetherchain](https://github.com/tintinweb/pyetherchain), [Mythril](https://github.com/b-mueller/mythril), [ethereum-dasm](https://github.com/tintinweb/ethereum-dasm), [evmdasm](https://github.com/tintinweb/ethereum-dasm)
+    
 
 ## Improvement Proposals
 
