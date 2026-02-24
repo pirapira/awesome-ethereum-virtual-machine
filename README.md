@@ -61,6 +61,8 @@ Here is [how to contribute](./contributing.md).
     - A mostly deprecated client ([ethereum/vm.py](https://github.com/ethereum/pyethereum/blob/develop/ethereum/vm.py))
 * [Py-EVM](https://github.com/pipermerriam/py-evm) in Python
     - A Python implementation designed to be highly configurable and modular and compliant with the Ethereum test suite, work is in progress on it to run a full node and develop sharding.
+* [py-ethclient](https://github.com/tokamak-network/py-ethclient) in Python
+    - A from-scratch Python execution client with 140+ EVM opcodes, RLPx transport, eth/68 and snap/1 wire protocols, full sync, snap sync, Engine API V1/V2/V3, and JSON-RPC
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
 * For more, see [here](https://github.com/ethereum/wiki/wiki/Clients).
