@@ -64,7 +64,7 @@ Here is [how to contribute](./contributing.md).
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
 * For more, see
-  [here](https://github.com/ethereum/wiki/wiki/Clients,-tools,-dapp-browsers,-wallets-and-other-projects).
+  [here](https://ethereum.org/developers/docs/nodes-and-clients/#execution-clients).
 
 ### Other Implementations
 
