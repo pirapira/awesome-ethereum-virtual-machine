@@ -65,7 +65,8 @@ Here is [how to contribute](./contributing.md).
     - A from-scratch Python execution client with 140+ EVM opcodes, RLPx transport, eth/68 and snap/1 wire protocols, full sync, snap sync, Engine API V1/V2/V3, and JSON-RPC
 * [EthereumJ](https://github.com/ethereum/ethereumj) in Java
     - A client with its own EVM implementation
-* For more, see [here](https://github.com/ethereum/wiki/wiki/Clients).
+* For more, see
+  [here](https://ethereum.org/developers/docs/nodes-and-clients/#execution-clients).
 
 ### Other Implementations
 
