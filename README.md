@@ -26,6 +26,8 @@ Outdated and archived resources have been moved to [STALE.md](./STALE.md).
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware for mining
+
 ## Specification
 
 * [Yellow Paper](https://github.com/ethereum/yellowpaper)
