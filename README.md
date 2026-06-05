@@ -67,6 +67,8 @@ Outdated and archived resources have been moved to [STALE.md](./STALE.md).
     - An EVM implementation written in Haskell, focused on debugging and formal verification
 * [Ethereumjs-VM](https://github.com/ethereumjs/ethereumjs-monorepo)
     - Implements Ethereum's VM in JS (part of the ethereumjs monorepo)
+* [zig-evm](https://github.com/cryptuon/zig-evm)
+    - A high-performance, embeddable EVM written in Zig with wave-based parallel transaction execution, 96+ opcodes, and precompiles (blake2f, BN254, ripemd160). MIT-licensed; targets L2/Rollup execution with C/Python/Rust/JS FFI bindings.
 
 ## Programming Languages that Compile into EVM
 
