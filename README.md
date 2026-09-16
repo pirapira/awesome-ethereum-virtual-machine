@@ -113,6 +113,7 @@ Outdated and archived resources have been moved to [STALE.md](./STALE.md).
 ## Improvement Proposals
 
 * [Ethereum Improvement Proposals](https://github.com/ethereum/EIPs)
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
     - A portal for EVM & Ethereum improvements
     - The soonest changes are listed in the README
 
